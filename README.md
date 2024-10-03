@@ -10,7 +10,7 @@ noun
     
 - I’m currently learning Computer Science at Pacific U
 - I'm not working on any large projects at the moment
-- I'm experienced in [Python](https://www.python.org/), [LUA](https://www.lua.org/), [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [SQL](https://www.iso.org/standard/76583.html) & [PHP](https://www.php.net/)
+- I have experience with [Python](https://www.python.org/), [LUA](https://www.lua.org/), [Javascript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [SQL](https://www.iso.org/standard/76583.html) & [PHP](https://www.php.net/)
 - I'm currently learning [C](https://www.iso.org/standard/74528.html)
 - I will update this page when I have something more substantial to show.
 
